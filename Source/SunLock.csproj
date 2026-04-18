@@ -11,6 +11,7 @@
 		<LangVersion>8</LangVersion>
 		<AssemblyName>SunLock</AssemblyName>
 		<KSPBT_ModPluginFolder>\Plugin</KSPBT_ModPluginFolder>
+		<KSPBT_ModRoot>$(MSBuildThisFileDirectory)/../GameData/$(MSBuildProjectName)</KSPBT_ModRoot>
 		<Configurations>Debug;Release;Unity</Configurations>
 		<Platforms>AnyCPU</Platforms>
 	</PropertyGroup>
