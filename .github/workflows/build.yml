@@ -15,5 +15,5 @@ jobs:
   build:
     uses: KSPModdingLibs/KSPBuildTools/.github/workflows/build.yml@1.1.1
     with:
-      solution-file-path: 'Source/Sunlock.sln'
+      solution-file-path: 'Source/SunLock.sln'
       use-ckan: true

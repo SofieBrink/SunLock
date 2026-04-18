@@ -11,6 +11,6 @@ jobs:
   create-release:
     uses: KSPModdingLibs/KSPBuildTools/.github/workflows/create-release.yml@1.1.1
     with:
-      solution-file-path: 'Source/Sunlock.sln'
+      solution-file-path: 'Source/SunLock.sln'
       version-string: ${{ inputs.version-string }}
       use-ckan: true
