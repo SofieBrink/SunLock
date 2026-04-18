@@ -1,0 +1,11 @@
+identifier: SunLock
+name: SunLock: Panels stay put
+license: MIT
+abstract: A small plugin that allows you to stop the sun tracking on solarpanels and manually set their angle.
+description: >-
+  This mod is a small plugin that adds a new part module that allows you to stop the sun tracking on solarpanels and manually set their angle.
+  Feel free to propose additional module ideas by opening an issue, or to contribute with a pull request.
+ksp_version_min: '1.12.3'
+suggests:
+  - name: ArtemisConstructionKit
+

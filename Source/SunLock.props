@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+	  <KSPBT_ModPluginFolder>.\Plugin</KSPBT_ModPluginFolder>
+	  <KSPBT_ReferenceSystemAssemblies>false</KSPBT_ReferenceSystemAssemblies>
+  </PropertyGroup>
+</Project>
