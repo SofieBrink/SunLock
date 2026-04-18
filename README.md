@@ -7,12 +7,8 @@ Feel free to propose additional module ideas by opening an issue, or to contribu
 
 Compatible with **KSP 1.12.3** and up - Available on [CKAN]
 
-**Required** and **must be downloaded separately** : 
-
-- **HarmonyKSP** : **[Download](https://github.com/KSPModdingLibs/HarmonyKSP/releases)** - [Homepage](https://github.com/KSPModdingLibs/HarmonyKSP/) - Available on [CKAN]
-
 **Installation**
-- Go to the **[GitHub release page](https://github.com/KSPModdingLibs/KSPCommunityPartModules/releases)** and download the newest file named `SunLock_x.x.x.zip`
+- Go to the **[GitHub release page](https://github.com/SofieBrink/SunLock/releases)** and download the newest file named `SunLock_x.x.x.zip`
 - Open the downloaded *.zip archive
 - Open the `GameData` folder of your KSP installation
 - Delete any existing `SunLock` folder in your `GameData` folder
